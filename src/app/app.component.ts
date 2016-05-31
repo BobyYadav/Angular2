@@ -5,5 +5,5 @@ import { Component } from '@angular/core';
     <h1>Hello World</h1>
 	`
 })
-export class AppComponent implements OnInit {
+export class AppComponent {
 }
